@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=lyubovGB&style=flat-square&color=blue" alt=""/>
+<!--   <img src="https://komarev.com/ghpvc/?username=lyubovGB&style=flat-square&color=blue" alt=""/> -->
   <h1>
   hey there
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -17,14 +17,12 @@
 </div>
 
 ### :woman_technologist: About Me :
-I'm learning JavaScript and working on my own mini-projects. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-- :world_map:I'm from Crimea, but now I live in Kazakhstan
-- :telescope: I want to working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
-
+Right now I'm learning JavaScript and working on my own mini-projects. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- :world_map:I'm from Crimea, but now I live in Kazakhstan.
+- :computer: I started my journey in programming by creating websites using HTML/CSS and the popular CMS WordPress
+- :telescope: I've built websites for clients on freelance sites, but I want to working as a Software Engineer and contributing to frontend and backend for building web applications and games. 
+- :seedling: I'm interested in all things related to programming.
+- :zap: In my free time, I solve problems on Codewarse and read teach articles.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%BB%D1%8E%D0%B1%D0%BE%D0%B2%D1%8C-%D0%B3%D0%BB%D0%B5%D0%B1%D0%BE%D0%B2%D0%B0-60916428a/)
 
 ### :hammer_and_wrench: Languages and Tools :
