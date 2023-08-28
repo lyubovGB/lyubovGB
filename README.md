@@ -35,4 +35,3 @@ Right now I'm learning JavaScript and working on my own mini-projects. <img src=
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lyubovGB&theme=dark&background=000000)](https://git.io/streak-stats)
 
-### :writing_hand: Blog Posts :
