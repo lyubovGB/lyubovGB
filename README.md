@@ -5,7 +5,7 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=lyubovGB&style=flat-square&color=blue" alt=""/>
+<!--   <img src="https://komarev.com/ghpvc/?username=lyubovGB&style=flat-square&color=blue" alt=""/> -->
   <h1>
   Welcome to my art room
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
@@ -27,7 +27,5 @@
 :heavy_check_mark: <b>MySQL/MariaDB</b>
 :heavy_check_mark: <b>WordPress</b>
 
-### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=lyubovGB&theme=dark&background=000000)](https://git.io/streak-stats)
 
