@@ -7,7 +7,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=lyubovGB&style=flat-square&color=blue" alt=""/>
   <h1>
-  Hey there
+  Welcome to my art room
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
 </div>
